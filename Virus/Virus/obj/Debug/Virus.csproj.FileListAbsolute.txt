@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Virus\Virus\bin\Debug\Virus.exe.config
+C:\Users\User\source\repos\Virus\Virus\bin\Debug\Virus.exe
+C:\Users\User\source\repos\Virus\Virus\bin\Debug\Virus.pdb
+C:\Users\User\source\repos\Virus\Virus\obj\Debug\Virus.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Virus\Virus\obj\Debug\Virus.Form1.resources
+C:\Users\User\source\repos\Virus\Virus\obj\Debug\Virus.Properties.Resources.resources
+C:\Users\User\source\repos\Virus\Virus\obj\Debug\Virus.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Virus\Virus\obj\Debug\Virus.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Virus\Virus\obj\Debug\Virus.exe
+C:\Users\User\source\repos\Virus\Virus\obj\Debug\Virus.pdb
